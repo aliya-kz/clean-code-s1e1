@@ -132,7 +132,7 @@ li > * {
   vertical-align: middle;
 }
 
-.actions__input {
+li input {
   margin: 0 10px;
 }
 
